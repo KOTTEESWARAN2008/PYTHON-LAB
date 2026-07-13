@@ -1,3 +1,3 @@
-Numbers=[10,20,30,40]
-Numbers.insert(2,25)
-print(Numbers)
+numbers = [10, 20, 30]
+numbers.insert(1, 15)
+print(numbers)
