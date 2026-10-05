@@ -1,6 +1,6 @@
 import sqlite3
 
-con = sqlite3.connect("d://flight.db")
+con = sqlite3.connect("e://flight.db")
 cur = con.cursor()
 
 

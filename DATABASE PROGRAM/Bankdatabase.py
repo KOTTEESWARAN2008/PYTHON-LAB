@@ -1,6 +1,6 @@
 import sqlite3
 
-con = sqlite3.connect("d://bank.db")
+con = sqlite3.connect("e://bank.db")
 cur = con.cursor()
 
 
